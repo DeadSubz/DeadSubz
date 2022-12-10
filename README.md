@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DeadSubz
 - 👀 I’m interested in Modding.
-- 🌱 I’m currently learning Java and C++...
+- 🌱 I’m currently learning Python...
 - 📫 https://youtube.com/c/DeadSubiter
 
 <!---
